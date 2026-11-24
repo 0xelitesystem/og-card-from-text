@@ -97,5 +97,5 @@ MIT. See [LICENSE](LICENSE).
 
 - [single-file-saas-template](https://github.com/0xelitesystem/single-file-saas-template), ship a SaaS in one HTML file
 - [readme-slop-checker](https://github.com/0xelitesystem/readme-slop-checker), audit a README for AI cliches
-- [prompt-cost-calculator](https://github.com/0xelitesystem/prompt-cost-calculator), estimate token cost across providers
-- [prompt-templates](https://github.com/0xelitesystem/prompt-templates), production prompts targeting LLM failure modes
+- [prompt-cost-across-models](https://github.com/0xelitesystem/prompt-cost-across-models), estimate token cost across providers
+- [failure-mode-prompts](https://github.com/0xelitesystem/failure-mode-prompts), production prompts targeting LLM failure modes
