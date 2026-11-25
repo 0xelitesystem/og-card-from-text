@@ -1,8 +1,8 @@
-# og-image-generator
+# og-card-from-text
 
 Generate Open Graph social cards from text input. 1200x630, ready to download. Browser-only, no signup, no Canva.
 
-**Live demo:** https://0xelitesystem.github.io/og-image-generator/
+**Live demo:** https://0xelitesystem.github.io/og-card-from-text/
 
 ## Why this exists
 
@@ -12,7 +12,7 @@ This tool does one thing: type a title, pick a layout and color scheme, download
 
 ## Use
 
-Open `index.html` in any browser. Or visit the hosted version at `https://0xelitesystem.github.io/og-image-generator/` once GitHub Pages is enabled.
+Open `index.html` in any browser. Or visit the hosted version at `https://0xelitesystem.github.io/og-card-from-text/` once GitHub Pages is enabled.
 
 1. Pick a layout: Centered, Left-aligned, Top banner, or Side bar
 2. Pick a color scheme from 8 presets (Ink, Paper, Ocean, Forest, Sunset, Violet, Linen, Graphite)
@@ -29,8 +29,8 @@ Everything runs in your browser. The card is drawn on an HTML canvas and the PNG
 ## Run locally
 
 ```
-git clone https://github.com/0xelitesystem/og-image-generator
-cd og-image-generator
+git clone https://github.com/0xelitesystem/og-card-from-text
+cd og-card-from-text
 ```
 
 Then open `index.html` in any browser. Or serve the folder with `python -m http.server` and visit http://localhost:8000.
